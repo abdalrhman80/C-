@@ -1,0 +1,28 @@
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.exe
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.deps.json
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.runtimeconfig.json
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.dll
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.pdb
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.AssemblyInfoInputs.cache
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.AssemblyInfo.cs
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.csproj.CoreCompileInputs.cache
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.dll
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\refint\SessionFive.dll
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.pdb
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.genruntimeconfig.cache
+D:\Route\Back-End\02 C# Basics\Session 05\Files\SessionFive\SessionFive\obj\Debug\net6.0\ref\SessionFive.dll
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.exe
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.deps.json
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.runtimeconfig.json
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.dll
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\bin\Debug\net6.0\SessionFive.pdb
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.AssemblyInfoInputs.cache
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.AssemblyInfo.cs
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.csproj.CoreCompileInputs.cache
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.dll
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\refint\SessionFive.dll
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.pdb
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\SessionFive.genruntimeconfig.cache
+D:\Route\Back-End\02 C#\SessionFive\SessionFive\obj\Debug\net6.0\ref\SessionFive.dll

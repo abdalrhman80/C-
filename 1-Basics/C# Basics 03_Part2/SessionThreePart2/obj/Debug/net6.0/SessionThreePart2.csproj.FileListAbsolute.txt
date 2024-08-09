@@ -1,0 +1,28 @@
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.exe
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.deps.json
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.runtimeconfig.json
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.dll
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.pdb
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.AssemblyInfoInputs.cache
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.AssemblyInfo.cs
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.csproj.CoreCompileInputs.cache
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.dll
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\refint\SessionThreePart2.dll
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.pdb
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.genruntimeconfig.cache
+D:\Route\Back-End\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\ref\SessionThreePart2.dll
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.exe
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.deps.json
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.runtimeconfig.json
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.dll
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\bin\Debug\net6.0\SessionThreePart2.pdb
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.GeneratedMSBuildEditorConfig.editorconfig
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.AssemblyInfoInputs.cache
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.AssemblyInfo.cs
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.csproj.CoreCompileInputs.cache
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.dll
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\refint\SessionThreePart2.dll
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.pdb
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\SessionThreePart2.genruntimeconfig.cache
+H:\2- Back-End\1- Course\02 C# Basics\Session 03\Files\SessionThreePart2\SessionThreePart2\obj\Debug\net6.0\ref\SessionThreePart2.dll

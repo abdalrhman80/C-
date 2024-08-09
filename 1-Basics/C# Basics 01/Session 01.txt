@@ -1,0 +1,131 @@
+------------------------------------------- 1 Programming Paradigms -------------------------------------------
+
+--- 1- Linear/Sequential Paradigm (Spaghetti code) 
+      -- مجموعه من الكواد تحت بعض 
+      -- التعديل فيه صعب جدا
+                                           
+--- 2- Structure | Functhion Paradigm  (Functhion | Struct)
+      -- Separation of Conference -> تكون بتعمل مهمه واحده بس Functhion ان ال           
+      -- ده  وتغير فيهVariable علي ال Access تقدر تعمل Method الفكره ان اي Global Variable في مشكله وهيا ال
+      -- Class مش جوه Function وهيا Standalone Function في مشكله تانيه وهيا ال
+      -- C Language
+   
+--- 3- OOP Paradigm 
+      -- Class اللي ليهم علاقه ببعض واحطهم في Methods و ال Data الفكره هنا اني هفصل ال
+      -- Access Modifiers عن طريق ال Class ل Access واقدر احدد ال
+      -- C++ Language [Not Pure oop -> (c + oop)] ,
+         SmallTalk Language  [First Pure oop Language]
+
+-------------------------------------------
+
+--- ده Paradigm ال Implementلازم اتعلم لغه برمجة  تكون  بتParadigm لأي Implement عشان اقدر اعمل
+  -- C -> Structure / Functional Programming
+  -- C++ -> Not Pure OOP 
+            (Backward Compatibility -> C اللي قبلها  اللي هيا Versions تقدر ترجع  لل)
+  -- Java -> Pure OOP
+  -- COOL | C++ ++ | C# -> Pure OOP
+
+------------------------------------------- 2 Pre Dot -------------------------------------------
+
+ ------- Dot Net في مشكلتين قبل ظهور ال : 
+   --- 1-
+      -- عليه Program اللي بشغل ال Platform(HardWare + OS) بمعني معتمد علي ال Platform dependent كان بيبقي Program ال Dot Net قبل ال
+      -- ده Program من خلاله اقدر اشغل ال .exe File بيطلع Commpiler ال Program  لل run فا لما اعمل
+      -- OS مش  هيشتغل علي كل ال .exe File فا Platform dependent بيبقي Program بس بما ان  ال 
+
+   --- 2- 
+      -- File في نفس ال Programmin Lang مينفعش اكتب اكتر من
+
+
+------------------------------------------- 3 Dot Net Framework ------------------------------------------- 
+
+------- Dot Net Framework -> Is a big container for software technologies like Web (ASP), Mobile (Xamarin), Desktop (WPF).
+
+ ---- Dot Net Consisting of 2 Components :
+    --- 1- Base Class Library (BCL) of Technology 
+        -- مثلا Datatypes زي ال Built-In بتكون (Language | Technologies) الحاجات اللي موجوده في كل 
+
+    --- 2- Common Language Runtime (CLR)
+        --- بيتكون من 3 حاجات 
+            -- 1. Dot Net Programming Languages (Visual Basic | Visual C++ | C# | F# | J#)
+            -- 2. Language Compilers (Roslyn -> C# Compiler)
+            -- 3. RunTime Components
+
+-------------------------------------------
+
+ ---- Dot Net Code Compilation Steps :
+    --- 1. C# Code :                                          
+        -- [HellWorld.CS]          
+
+    --- 2. Language Compiler :
+        -- Roslyn 
+        -- [CSC.exe]
+
+    --- 3. Managed Code (CIL | IL | MSIL | Assembly File) :
+         -- IL -> Intermediate Language (تقدر تفهمها Platform اي Language)
+         -- Platform Independent
+         -- [HellWorld.dll] dll-> Dynamic Link Library
+    
+    --- 4. Runtime (JIT Compiler) :
+         -- JIT Compiler -> عليه يفهمه Run اللي بي OS اللي ال Native code ويحوله الي .dll File بياخد ال Tiny OS عباره عن  
+
+    --- 5. Native code 
+
+-------------------------------------------
+
+ ---- Two Time :
+    --- Compilation Time (Roslyn) -> dll File يتحول الي C# Code الوقت اللي 
+    --- Runtime Time (Jitting) -> Native code  يتحول الي ال dll File الوقت اللي 
+
+-------------------------------------------
+
+ ---- Overhead at Runtime (Jitting): 
+    --- Jit Compiler (64 Bit) so it is very fast
+    --- Jitting Happen per Function call (compilation بيروح يعملها call معمولها Function كل ما يلاقي call اللي بعملهم Functions كله هوا علي  حسب  ال Fileلل compilation هوا مش بيعمل )
+    --- Jitting For first call only as long as program is not terminated (تاني compilation  تاني  مش  هيعملها call مره لما اجي اعملها call اتعملها Function طول ما البرنامج شغال وفي )
+
+-------------------------------------------
+
+---- Windows علي Run بس  لازم  اعمل OS علي اي Devolpment بس  فا انا ممكن اعمل Windows خاص بال SDK عملت Microsoft متحلتش  اوي  لان Platform Independent لغايت دلوقتي مشكله ال
+
+
+------------------------------------------- 4 Dot Net Core ------------------------------------------- 
+
+ ---- .Net Core (Announced 2014 - Released 2016): (جديده version كل سنه بينزل)
+    --- 1. Cross Platform (Linux, Windows, Mac بتاع SDK بينزل ب Version كل)
+    --- 2. Open Source
+    --- 3. Component Based (Nuget.Org Package Manager [npm]) (بنزل كل الحاجات اللي محتجها بس ودا هيقلل مساحه البرنامج)
+
+
+ ---- Support :
+    --- STS (Standard Term Support) : Odd Number Versions بتكون لمده  18 شهر بس وبتكون علي ال
+    --- LTS (Long Term Support) : Even Number Versions بتكون لمده  3 سنين  وبتكون علي ال
+
+------------------------------------------- 5 Dote Net And C# Versions ------------------------------------------- 
+
+ ---- 1- .Net Framework
+    --- Started : .Net Framework 1.0 [2002]     C# 1.0
+    --- Ended : .Net Framework 4.8 [2019]       C# 7.0 
+
+ ---- 2- .Net Core
+    --- .Net Core 1.0 [2016]
+    --- .Net Core 3.1 [2019]   C# 8.0   
+    ---   (.Net Framework من Version عشان ميحلص لغبطه مع اخر .Net Core 4.0 مفيش نسخه )
+    --- .Net 5 [Nov 2020]      C# 9.0
+    --- .Net 6 [Nov 2021]      C# 10.0
+    --- .Net 7 [Nov 2022]      C# 11.0
+
+ 
+------------------------------------------- 6 Projec Hierarchy ------------------------------------------- 
+
+-------- Solution -> Projects -> Namespace -> Class/Libraries/Packeges  
+
+ ---- Solution : Container of Projects 
+   --- Web Application
+   --- Mobile Application
+   --- C# Class Library [Console App] (تانيه بتستخدمه projects بنفسه هوا في run مش ب project هوا عباره عن)
+
+
+ ---- Namespace : Project بيبقي  جواه كل  الحاجات الخاصه بال Folder عباره عن 
+   --- System.Windows.forms.button
+   --- System.Web.forms.button

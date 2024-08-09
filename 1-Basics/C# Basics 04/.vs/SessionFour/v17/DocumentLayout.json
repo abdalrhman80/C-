@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EF6860-CEBF-4D41-A3B8-DCA7E1A777B9}|SessionFour\\SessionFour.csproj|h:\\2- back-end\\1- course\\02 c#\\1- c# basics\\session 4\\files\\sessionfour\\sessionfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EF6860-CEBF-4D41-A3B8-DCA7E1A777B9}|SessionFour\\SessionFour.csproj|solutionrelative:sessionfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EF6860-CEBF-4D41-A3B8-DCA7E1A777B9}|SessionFour\\SessionFour.csproj|h:\\2- back-end\\1- course\\02 c#\\1- c# basics\\session 4\\files\\sessionfour\\sessionfour\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EF6860-CEBF-4D41-A3B8-DCA7E1A777B9}|SessionFour\\SessionFour.csproj|solutionrelative:sessionfour\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EF6860-CEBF-4D41-A3B8-DCA7E1A777B9}|SessionFour\\SessionFour.csproj|h:\\2- back-end\\1- course\\02 c#\\1- c# basics\\session 4\\files\\sessionfour\\sessionfour\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EF6860-CEBF-4D41-A3B8-DCA7E1A777B9}|SessionFour\\SessionFour.csproj|solutionrelative:sessionfour\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\SessionFour\\Employee.cs",
+              "RelativeDocumentMoniker": "SessionFour\\Employee.cs",
+              "ToolTip": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\SessionFour\\Employee.cs",
+              "RelativeToolTip": "SessionFour\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T13:47:18.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\SessionFour\\Test.cs",
+              "RelativeDocumentMoniker": "SessionFour\\Test.cs",
+              "ToolTip": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\SessionFour\\Test.cs",
+              "RelativeToolTip": "SessionFour\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T12:02:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\SessionFour\\Program.cs",
+              "RelativeDocumentMoniker": "SessionFour\\Program.cs",
+              "ToolTip": "H:\\2- Back-End\\1- Course\\02 C#\\1- C# Basics\\Session 4\\Files\\SessionFour\\SessionFour\\Program.cs",
+              "RelativeToolTip": "SessionFour\\Program.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAgwCgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T11:25:43.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route\\Back-End\\02 C#\\2-OOP\\Session 1\\Files\\OOP01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FCE225-6C4C-467A-994B-A6238246DA04}|OOP01\\OOP01.csproj|d:\\route\\back-end\\02 c#\\2-oop\\session 1\\files\\oop01\\oop01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FCE225-6C4C-467A-994B-A6238246DA04}|OOP01\\OOP01.csproj|solutionrelative:oop01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8FCE225-6C4C-467A-994B-A6238246DA04}|OOP01\\OOP01.csproj|d:\\route\\back-end\\02 c#\\2-oop\\session 1\\files\\oop01\\oop01\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8FCE225-6C4C-467A-994B-A6238246DA04}|OOP01\\OOP01.csproj|solutionrelative:oop01\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Route\\Back-End\\02 C#\\2-OOP\\Session 1\\Files\\OOP01\\OOP01\\Car.cs",
+              "RelativeDocumentMoniker": "OOP01\\Car.cs",
+              "ToolTip": "D:\\Route\\Back-End\\02 C#\\2-OOP\\Session 1\\Files\\OOP01\\OOP01\\Car.cs",
+              "RelativeToolTip": "OOP01\\Car.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwDkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T20:20:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route\\Back-End\\02 C#\\2-OOP\\Session 1\\Files\\OOP01\\OOP01\\Program.cs",
+              "RelativeDocumentMoniker": "OOP01\\Program.cs",
+              "ToolTip": "D:\\Route\\Back-End\\02 C#\\2-OOP\\Session 1\\Files\\OOP01\\OOP01\\Program.cs",
+              "RelativeToolTip": "OOP01\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwMcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:21:26.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
